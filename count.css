@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.main{
+    padding-top: 20%;
+}
+
+
+
+
+div{
+    width: 50%;
+    margin: auto;
+    padding-left: 15rem;
+    
+}
+
+#add{
+    color: white;
+    width: 8rem;
+    height: 5rem; 
+    background-color: darkgreen;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-right: 40px;
+}
+
+#subtract{
+    color: white;
+    background-color: brown;
+    width: 8rem;
+    height: 5rem;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-left: 40px;
+}
+
+
+input, button{
+    display: inline;
+    padding: 10px;
+}
+
+input{
+    padding: 2rem;
+    outline: none;
+}
+
